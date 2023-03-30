@@ -4,9 +4,9 @@ excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
-ogImage:
+  name: Damian Bemben
+  picture: '/assets/blog/authors/headshot.png'
+  ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
