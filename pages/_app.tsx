@@ -1,6 +1,11 @@
 import { AppProps } from 'next/app'
+import { AnimatePresence } from 'framer-motion'
 import '../styles/index.css'
 
 export default function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return(
+    <AnimatePresence mode="wait" initial={false}>
+      <Component {...pageProps} />
+    </AnimatePresence>
+  )
 }
