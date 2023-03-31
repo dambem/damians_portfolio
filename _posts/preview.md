@@ -6,7 +6,7 @@ date: '2020-03-16T05:35:07.322Z'
 author:
   name: Damian Bemben
   picture: '/assets/blog/authors/headshot.png'
-  ogImage:
+ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
