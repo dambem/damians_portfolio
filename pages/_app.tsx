@@ -4,8 +4,8 @@ import '../styles/index.css'
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return(
-    <AnimatePresence mode="wait" initial={false}>
+    // <AnimatePresence mode="wait" initial={false}>
       <Component {...pageProps} />
-    </AnimatePresence>
+    // </AnimatePresence>
   )
 }
