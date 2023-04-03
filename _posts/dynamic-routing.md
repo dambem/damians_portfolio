@@ -1,6 +1,7 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Beauty By Algorithm'
+tag: 'string'
+excerpt: 'It’s beauty was evident in the photograph. Her looks were perfect...'
 coverImage: '/assets/blog/dynamic-routing/cover2.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -9,22 +10,38 @@ author:
 ogImage:
   url: '/assets/blog/dynamic-routing/cover2.png'
 ---
-## test
-> Test One Two Three
->
-> Four five six
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+It’s beauty was evident in the photograph. Her looks were perfect. A poreless face upon a soft landscape of a calm sea. The sunset in the background was without fault too, the sky creating a perfect burnt ember to crystalline twilight.
 
- eiusmod tempor incididunt ut labore et dolore magna aliqua. 
- 
- Praesent elementum facilisis leo vel fringilla est ullamcorper 
- eget. At imperdiet dui accumsan sit amet nulla facilities morbi 
- 
- 
- tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+He had high cheekbones, a neat nose, catlike eyes. It’s lips where without cracks. Her smile was hauntingly perfect, created by a hundred thousand votes of perfect smiles. 
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+It had segregated, analyzed and classified the aspects of each smile to ensure that he, and only she had the perfect one. It’s eyes where emeralds, or topaz, or maybe Pyrite? It didn’t matter. Each person saw him differently. 
 
-## Lorem Ipsum
+It’s hair, it’s skin, it’s gender all variable to the viewer. 
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+It ensured it’s beholder that beauty would only be beholden to itself. 
+
+It was an impossible beauty that ruined all others, permeating a sort of sickness of the word itself; 
+
+Beauty.
+
+He was on every billboard, in every advert in every tv show in every movie. She was pygmallion’s burden to all who perceived her, but there was no aphrodite to ease the pain. Each day perfection on every screen. Impossibility in every store, between each crack on each smart packaging. 
+
+A proportion of humanity became mad within weeks. They clung to it. Brought every product, watched every movie. You could tell who they where on the streets. They would each have iris implants, a small display lovingly drilled into the left retina. 
+
+Unremovable and ever present. 
+
+They would see her in they’re dreams. Advertisers had worked out fairly quickly that sleep-ads would improve product retention rates (PRR) by over 33%. 
+
+Ever-present. Each fast-fashion clung to her perfectly. Each drug slipped into his lips without side-effects. It slept in perfect mattresses and loved the perfumes that you’d buy. Even closing ones eyes would retain her. He’d ask why you didn’t buy the newest phone, the newest computer. It would guide your hands to the buy buttons, all while you slept.
+
+They would shuffle across the streets, to different shops and buy all she demanded. Then they’d shuffle back to they’re rooms and sit and eat with him. This for each day. For each hour. For each minute.
+
+Some clawed they’re eye, but they couldn’t escape her. You could tell them easily between the lines of vagrants in the tent-cities. They’d be the blindfolded ones, still clawing at they’re eyes, the last image in them of his perfect face.
+
+Why did this tragedy occur? Why isn’t it still fixed? 
+
+Simple
+
+Her face makes more money than any other face in the entire world.
+
+So who are we to want to stop it?
