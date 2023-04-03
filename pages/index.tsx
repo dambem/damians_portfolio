@@ -22,7 +22,7 @@ export default function Index({ allPosts }: Props) {
           <title>{`${CMS_NAME}`}</title>
         </Head>
         <Container>
-          <Header />
+          <Header home={true} />
           <Intro />
           {heroPost && (
             <HeroPost
