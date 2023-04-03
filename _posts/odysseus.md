@@ -2,13 +2,13 @@
 title: 'odysseus'
 tag: 'poem'
 excerpt: 'A short poem about someone lost.'
-coverImage: '/assets/blog/dynamic-routing/cover2.png'
+coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2023-03-10T05:35:07.322Z'
 author:
   name: Damian Bemben
   picture: '/assets/blog/authors/headshot.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover2.png'
+  url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
 ```

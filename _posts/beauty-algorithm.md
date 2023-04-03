@@ -2,13 +2,13 @@
 title: 'Beauty By Algorithm'
 tag: 'string'
 excerpt: 'It’s beauty was evident in the photograph. Her looks were perfect...'
-coverImage: '/assets/blog/dynamic-routing/cover2.png'
+coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Damian Bemben
   picture: '/assets/blog/authors/headshot.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover2.png'
+  url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 It’s beauty was evident in the photograph. Her looks were perfect. A poreless face upon a soft landscape of a calm sea. The sunset in the background was without fault too, the sky creating a perfect burnt ember to crystalline twilight.
 

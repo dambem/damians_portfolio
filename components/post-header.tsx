@@ -16,8 +16,8 @@ const PostHeader = ({ title, coverImage, date, author, tag }: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
-      <PostTitle>{tag}</PostTitle>
-      <PostTitle>{title}</PostTitle>
+      <h4>{tag}</h4>
+
 
       <div className="hidden md:block md:mb-12">
         <Avatar name={author.name} picture={author.picture} />
