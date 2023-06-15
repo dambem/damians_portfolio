@@ -1,11 +1,16 @@
 import PostPreview from './post-preview'
 import type Post from '../interfaces/post'
-
+import styles from './more-stores.module.css';
+import React, {useEffect} from 'react';
+import {createRoot} from 'react-dom/client'
 type Props = {
   posts: Post[]
 }
 
 const MoreStories = ({ posts }: Props) => {
+  const ref = React.useRef(null);
+
+
   return (
     <section>
       <h2 className="mb-8 text-5xl md:text-7xl font-bold tracking-tighter leading-tight">
