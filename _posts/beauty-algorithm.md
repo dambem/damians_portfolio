@@ -1,7 +1,7 @@
 ---
 title: 'Beauty By Algorithm'
 tag: 'string'
-excerpt: 'It’s beauty was evident in the photograph. Her looks were perfect...'
+excerpt: 'Its beauty was evident in the photograph. Her looks were perfect...'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
