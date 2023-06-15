@@ -1,5 +1,5 @@
 import PostPreview from './post-preview'
-import type Post from '../interfaces/post'
+import type Post from '../../interfaces/post'
 import styles from './more-stores.module.css';
 import React, {useEffect} from 'react';
 import {createRoot} from 'react-dom/client'
