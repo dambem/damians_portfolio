@@ -23,7 +23,6 @@ export default function Index({ allPosts }: Props) {
           <title>{`${CMS_NAME}`}</title>
         </Head>
         <Container>
-
           <Header home={true} />
           <Navbar />
 
@@ -40,6 +39,7 @@ export default function Index({ allPosts }: Props) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+
         </Container>
       </Layout>
     </>
