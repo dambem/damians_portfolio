@@ -1,14 +1,14 @@
 ---
 title: 'Hand-Dryers'
-tag: 'story'
+tag: 'string'
 excerpt: 'Robots.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/hand-dryers/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Damian Bemben
   picture: '/assets/blog/authors/headshot.png'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/hand-dryers/cover.jpg'
 ---
 
 They all lay there in a great piled pyramid on the floor. A single small LED was on top of the vast warehouse. It was a sterile white, no other colours. (Or all of them at once). The floor of the warehouse was made up of bleached cream tiles, and the walls where an incredibly interesting pigment of clean-cloud milk, extra clean. 

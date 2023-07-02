@@ -12,12 +12,7 @@ const Intro = () => {
       
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Thoughts, weird works and things I find interesting.{' '}
-        {/* <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Twitter 
-        </a>{' '} */}
+
       </h4>
     </section>
   )

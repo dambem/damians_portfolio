@@ -12,7 +12,6 @@ const Footer = () => {
             >
               GitHub
             </a>
-          {/* </div> */}
         </div>
       </Container>
     </footer>

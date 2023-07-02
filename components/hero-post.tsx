@@ -1,5 +1,5 @@
 import Avatar from './avatar'
-import DateFormatter from './date-formatter'
+import DateFormatter from './helpers/date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
@@ -32,11 +32,11 @@ const HeroPost = ({
               as={`/posts/${slug}`}
                href="/posts/[slug]"
                className="hover:underline"
-             >         <h1 className="mb-5 text-5xl font-bold">{title}</h1>
+             >         
+             <h1 className="mb-5 text-5xl font-bold">{title}</h1>
 
-              </Link>
-        <p className="mb-5">{excerpt}</p>
-
+      </Link>
+      <p className="mb-5">{excerpt}</p>
       </div>
     </div>
     </div>
